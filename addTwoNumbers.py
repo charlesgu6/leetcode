@@ -79,14 +79,14 @@ if __name__ == "__main__":
     
 
 
-#%%
-a = answer
+# #%%
+# a = answer
 
-#%%
-a.val
+# #%%
+# a.val
 
 
-#%%
-a = a.next
+# #%%
+# a = a.next
 
 #%%
